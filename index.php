@@ -51,7 +51,7 @@ crossorigin="anonymous"></script>
 
 <div id="ms" class="borde-caja"> 
 <select name="soat" id="soat" class="form-control" onclick="myFunctionso()">
-    <option value="">VIGENCIA DE PAPELES</option>    
+    <option value="">VIGENCIA DE SOAT</option>    
 </select>
 </div>
 <div id="rsoat"></div>
