@@ -10,13 +10,13 @@ if($conexion){
 }else{
     echo "pailas";
 }*/
-$dbHost = 'localhost';
+$dbHost = 'remotemysql.com';
 
-$dbUsername = 'root';
+$dbUsername = 'HRme7q7ZMd';
 
 $dbPassword = '';
 
-$dbName = 'motos';
+$dbName = 'HRme7q7ZMd';
 
 //Conectamos y seleccionamos la base de datos
 
