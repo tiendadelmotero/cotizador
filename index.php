@@ -19,7 +19,7 @@ crossorigin="anonymous"></script>
 <script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script>
 <script type="text/javascript" src="https://cdn.navdmp.com/req?v=9&amp;id=a88fec8955ca4c3e451ed986e09%7C0&amp;acc=58464&amp;tit=Compramos%2520tu%2520carro%2520f%25E1cil%252C%2520r%25E1pido%2520y%2520seguro%2520%257C%2520Carro123.com&amp;upd=1&amp;h1=COMPRAMOS%2520TU%2520CARRO&amp;url=https%253A%2F%2Fwww.carro123.com%2F" async=""></script>
 
-<body><center>
+<body style="background-color:black;"><center>
 <div id="contenedor" class="container">
     <form id="precio" class="px-4 py-3">
 <div class="form-group"></div>
