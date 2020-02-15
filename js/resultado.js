@@ -35,7 +35,9 @@ $(document).on("submit","#precio",function(e){
     if(varmarca.value==0 || varmodelo.value==0 || varsoat.value==0 || varcorreo.value==0 || vartelefono.value==0 || varcheck.value==0 ){
         document.getElementById('contenedor').style.height='850px';
         document.getElementById('res').style.height='20px';}
-    else{
+    else 
+        if(varmarca.value!=0 && varmodelo.value!=0 && varsoat.value!=0 && varcorreo.value!=0 $$ vartelefono.value!=0 && varcheck.value!=0)
+        {
     document.getElementById('res').style.height='200px';
     document.getElementById('res').style.radius='10px'; 
     document.getElementById('res').style.background='2px solid #FFF';}
