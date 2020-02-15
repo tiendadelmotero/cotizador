@@ -33,7 +33,7 @@ $(document).on("submit","#precio",function(e){
         var varcheck = document.getElementById("exampleCheck1");
     //
     if(varmarca.value==0 || varmodelo.value==0 || varsoat.value==0 || varcorreo.value==0 || vartelefono.value==0 || varcheck.value==0 ){
-    
+        document.getElementById('contenedor').style.height='750px';
         document.getElementById('res').style.height='20px';}
     else{
     document.getElementById('res').style.height='200px';
