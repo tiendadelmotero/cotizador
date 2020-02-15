@@ -14,7 +14,7 @@ $dbHost = 'remotemysql.com';
 
 $dbUsername = 'HRme7q7ZMd';
 
-$dbPassword = '';
+$dbPassword = 'SHriNyNfWv';
 
 $dbName = 'HRme7q7ZMd';
 
